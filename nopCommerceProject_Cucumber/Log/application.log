@@ -1,0 +1,435 @@
+2020-05-13 16:03:54,440 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 16:03:54,467 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 16:03:57,391 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 16:03:58,774 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 16:04:30,097 [main] INFO nopCommerce - *****Verifying Add a new customer Page*****
+2020-05-13 16:04:30,131 [main] INFO nopCommerce - *****Adding new customer details*****
+2020-05-13 16:05:08,382 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 16:05:08,390 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 16:05:11,041 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 16:05:12,457 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 16:05:35,928 [main] INFO nopCommerce - *****Searching Customer by email id*****
+2020-05-13 16:05:41,384 [main] INFO nopCommerce - *****Verifying Search Customer by Email *****
+2020-05-13 16:05:41,561 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 16:05:48,786 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 16:05:48,791 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 16:05:51,373 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 16:05:52,772 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 16:06:14,970 [main] INFO nopCommerce - *****Searching Customer by Name*****
+2020-05-13 16:06:20,529 [main] INFO nopCommerce - *****Verifying Search Customer by Name *****
+2020-05-13 16:06:20,989 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 16:06:34,340 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 16:06:34,345 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 16:06:36,662 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 16:06:38,460 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 16:06:49,708 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 16:06:49,893 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-13 16:06:57,859 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 16:06:57,926 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 16:07:06,568 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 16:07:06,576 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 16:07:08,953 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 16:07:10,149 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 16:07:19,420 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 16:07:19,573 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-13 16:07:26,980 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 16:07:27,016 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 16:07:34,961 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 16:07:34,968 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 16:07:38,071 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 16:07:39,792 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 16:07:40,711 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 16:08:36,012 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 16:08:36,035 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 16:08:37,996 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 16:08:39,051 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 16:09:01,532 [main] INFO nopCommerce - *****Verifying Add a new customer Page*****
+2020-05-13 16:09:01,573 [main] INFO nopCommerce - *****Adding new customer details*****
+2020-05-13 16:09:49,897 [main] INFO nopCommerce - *****Saving customer data*****
+2020-05-13 16:09:56,739 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 16:10:03,607 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 16:10:03,613 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 16:10:05,531 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 16:10:06,599 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 16:10:26,656 [main] INFO nopCommerce - *****Searching Customer by email id*****
+2020-05-13 16:10:30,968 [main] INFO nopCommerce - *****Verifying Search Customer by Email *****
+2020-05-13 16:10:31,129 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 16:10:37,973 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 16:10:37,982 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 16:10:40,238 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 16:10:41,201 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 16:10:57,543 [main] INFO nopCommerce - *****Searching Customer by Name*****
+2020-05-13 16:11:02,056 [main] INFO nopCommerce - *****Verifying Search Customer by Name *****
+2020-05-13 16:11:02,210 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 16:11:08,735 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 16:11:08,741 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 16:11:11,343 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 16:11:12,250 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 16:11:20,072 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 16:11:20,210 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-13 16:11:27,490 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 16:11:27,514 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 16:11:34,740 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 16:11:34,747 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 16:11:37,241 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 16:11:38,320 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 16:11:44,649 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 16:11:44,735 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-13 16:11:52,576 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 16:11:52,597 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 16:11:59,160 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 16:11:59,165 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 16:12:01,603 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 16:12:02,522 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 16:12:03,504 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 16:59:15,976 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 16:59:16,239 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 16:59:18,861 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 16:59:19,456 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 16:59:40,086 [main] INFO nopCommerce - *****Verifying Add a new customer Page*****
+2020-05-13 16:59:40,123 [main] INFO nopCommerce - *****Adding new customer details*****
+2020-05-13 17:00:54,187 [main] INFO nopCommerce - *****Saving customer data*****
+2020-05-13 17:01:01,296 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 17:01:15,907 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 17:01:15,918 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 17:01:18,508 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 17:01:19,040 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 17:01:35,210 [main] INFO nopCommerce - *****Searching Customer by email id*****
+2020-05-13 17:01:39,358 [main] INFO nopCommerce - *****Verifying Search Customer by Email *****
+2020-05-13 17:01:39,453 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 17:01:53,299 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 17:01:53,313 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 17:01:55,447 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 17:01:55,903 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 17:02:10,569 [main] INFO nopCommerce - *****Searching Customer by Name*****
+2020-05-13 17:02:14,728 [main] INFO nopCommerce - *****Verifying Search Customer by Name *****
+2020-05-13 17:02:14,839 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 18:22:14,620 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 18:22:14,751 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 18:22:17,963 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 18:22:19,358 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 18:22:54,386 [main] INFO nopCommerce - *****Verifying Add a new customer Page*****
+2020-05-13 18:22:54,428 [main] INFO nopCommerce - *****Adding new customer details*****
+2020-05-13 18:23:57,259 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 18:23:57,281 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 18:24:00,779 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 18:24:05,314 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 18:24:08,268 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 18:24:44,762 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 18:24:44,867 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 18:24:47,517 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 18:24:48,469 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 18:25:15,133 [main] INFO nopCommerce - *****Verifying Add a new customer Page*****
+2020-05-13 18:25:15,149 [main] INFO nopCommerce - *****Adding new customer details*****
+2020-05-13 18:26:09,302 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 18:26:09,408 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 18:26:11,664 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 18:26:12,644 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 18:26:35,552 [main] INFO nopCommerce - *****Verifying Add a new customer Page*****
+2020-05-13 18:26:35,586 [main] INFO nopCommerce - *****Adding new customer details*****
+2020-05-13 18:27:25,299 [main] INFO nopCommerce - *****Saving customer data*****
+2020-05-13 18:27:32,127 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 18:27:38,839 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 18:27:38,849 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 18:27:41,250 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 18:27:42,336 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 18:27:48,595 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 18:27:48,829 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-13 18:27:56,616 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 18:27:56,665 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 18:41:33,417 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 18:41:33,528 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 18:41:35,855 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 18:41:36,854 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 18:42:08,960 [main] INFO nopCommerce - *****Verifying Add a new customer Page*****
+2020-05-13 18:42:09,000 [main] INFO nopCommerce - *****Adding new customer details*****
+2020-05-13 18:42:57,647 [main] INFO nopCommerce - *****Saving customer data*****
+2020-05-13 18:43:05,384 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 18:43:13,142 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 18:43:13,151 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 18:43:15,881 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 18:43:17,410 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 18:43:34,233 [main] INFO nopCommerce - *****Searching Customer by email id*****
+2020-05-13 18:43:39,103 [main] INFO nopCommerce - *****Verifying Search Customer by Email *****
+2020-05-13 18:43:39,262 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 18:43:45,849 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 18:43:45,863 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 18:43:48,387 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 18:43:49,250 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 18:44:05,968 [main] INFO nopCommerce - *****Searching Customer by Name*****
+2020-05-13 18:44:10,691 [main] INFO nopCommerce - *****Verifying Search Customer by Name *****
+2020-05-13 18:44:10,887 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 18:44:18,061 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 18:44:18,071 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 18:44:20,497 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 18:44:21,490 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 18:44:27,645 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 18:44:27,719 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-13 18:44:34,837 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 18:44:34,890 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 18:44:41,579 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 18:44:41,589 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 18:44:44,102 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 18:44:45,067 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 18:44:52,259 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 18:44:52,465 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-13 18:44:59,873 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-13 18:44:59,920 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-13 18:45:06,942 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-13 18:45:06,951 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-13 18:45:08,752 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-13 18:45:09,886 [main] INFO nopCommerce - *****Started login*****
+2020-05-13 18:45:10,626 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 11:23:55,684 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 11:23:55,827 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 11:23:58,994 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 11:24:00,180 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 11:24:24,690 [main] INFO nopCommerce - *****Verifying Add a new customer Page*****
+2020-05-15 11:24:24,710 [main] INFO nopCommerce - *****Adding new customer details*****
+2020-05-15 11:25:20,225 [main] INFO nopCommerce - *****Saving customer data*****
+2020-05-15 11:25:27,622 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 11:25:35,245 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 11:25:35,255 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 11:25:37,637 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 11:25:38,621 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 11:25:57,366 [main] INFO nopCommerce - *****Searching Customer by email id*****
+2020-05-15 11:26:02,447 [main] INFO nopCommerce - *****Verifying Search Customer by Email *****
+2020-05-15 11:26:02,573 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 11:26:10,167 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 11:26:10,181 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 11:26:12,350 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 11:26:13,345 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 11:26:35,768 [main] INFO nopCommerce - *****Searching Customer by Name*****
+2020-05-15 11:26:40,498 [main] INFO nopCommerce - *****Verifying Search Customer by Name *****
+2020-05-15 11:26:40,625 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 11:26:47,390 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 11:26:47,399 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 11:26:50,020 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 11:26:51,046 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 11:26:58,129 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 11:26:58,213 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-15 11:27:05,484 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 11:27:05,516 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 11:27:12,747 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 11:27:12,756 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 11:27:15,020 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 11:27:16,130 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 11:27:23,358 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 11:27:23,567 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-15 11:27:31,418 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 11:27:31,445 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 11:27:42,155 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 11:27:42,166 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 11:27:44,662 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 11:27:45,803 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 11:27:46,877 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 12:03:55,216 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:03:55,351 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:03:58,098 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:03:59,058 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:04:24,116 [main] INFO nopCommerce - *****Verifying Add a new customer Page*****
+2020-05-15 12:04:24,149 [main] INFO nopCommerce - *****Adding new customer details*****
+2020-05-15 12:05:12,582 [main] INFO nopCommerce - *****Saving customer data*****
+2020-05-15 12:05:19,398 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 12:05:25,962 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:05:25,976 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:05:28,037 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:05:29,007 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:05:46,328 [main] INFO nopCommerce - *****Searching Customer by email id*****
+2020-05-15 12:05:50,926 [main] INFO nopCommerce - *****Verifying Search Customer by Email *****
+2020-05-15 12:05:51,063 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 12:05:57,748 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:05:57,762 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:05:59,843 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:06:00,813 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:06:16,843 [main] INFO nopCommerce - *****Searching Customer by Name*****
+2020-05-15 12:06:21,444 [main] INFO nopCommerce - *****Verifying Search Customer by Name *****
+2020-05-15 12:06:21,609 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 12:06:28,573 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:06:28,596 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:06:31,035 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:06:31,948 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:06:38,194 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 12:06:38,277 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-15 12:06:45,802 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 12:06:45,832 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 12:06:52,482 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:06:52,494 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:06:54,555 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:06:55,418 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:07:01,867 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 12:07:01,954 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-15 12:07:08,593 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 12:07:08,621 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 12:07:15,308 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:07:15,327 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:07:17,481 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:07:18,432 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:07:19,069 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 12:22:17,615 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:22:17,742 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:22:20,277 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:22:21,501 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:22:43,741 [main] INFO nopCommerce - *****Verifying Add a new customer Page*****
+2020-05-15 12:22:43,776 [main] INFO nopCommerce - *****Adding new customer details*****
+2020-05-15 12:23:31,646 [main] INFO nopCommerce - *****Saving customer data*****
+2020-05-15 12:23:38,387 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 12:23:44,992 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:23:45,004 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:23:47,489 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:23:48,390 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:24:04,930 [main] INFO nopCommerce - *****Searching Customer by email id*****
+2020-05-15 12:24:09,691 [main] INFO nopCommerce - *****Verifying Search Customer by Email *****
+2020-05-15 12:24:09,841 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 12:24:16,325 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:24:16,340 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:24:18,363 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:24:19,287 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:24:34,569 [main] INFO nopCommerce - *****Searching Customer by Name*****
+2020-05-15 12:24:39,106 [main] INFO nopCommerce - *****Verifying Search Customer by Name *****
+2020-05-15 12:24:39,244 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 12:24:45,543 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:24:45,555 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:24:48,129 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:24:49,101 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:24:54,941 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 12:24:55,031 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-15 12:25:01,533 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 12:25:01,577 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 12:25:08,373 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:25:08,385 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:25:10,769 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:25:11,622 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:25:18,026 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 12:25:18,126 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-15 12:25:25,844 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 12:25:25,882 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 12:25:32,598 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:25:32,606 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:25:34,976 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:25:35,905 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:25:36,588 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 12:28:14,951 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:28:15,097 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:28:18,028 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:28:18,974 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:28:40,505 [main] INFO nopCommerce - *****Verifying Add a new customer Page*****
+2020-05-15 12:28:40,543 [main] INFO nopCommerce - *****Adding new customer details*****
+2020-05-15 12:29:29,615 [main] INFO nopCommerce - *****Saving customer data*****
+2020-05-15 12:29:36,278 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 12:29:43,271 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:29:43,295 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:29:45,460 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:29:46,465 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:30:03,107 [main] INFO nopCommerce - *****Searching Customer by email id*****
+2020-05-15 12:30:07,420 [main] INFO nopCommerce - *****Verifying Search Customer by Email *****
+2020-05-15 12:30:07,559 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 12:30:14,151 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:30:14,166 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:30:16,389 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:30:17,255 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:30:32,796 [main] INFO nopCommerce - *****Searching Customer by Name*****
+2020-05-15 12:30:37,329 [main] INFO nopCommerce - *****Verifying Search Customer by Name *****
+2020-05-15 12:30:37,484 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 12:30:44,383 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:30:44,404 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:30:46,163 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:30:47,128 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:30:52,875 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 12:30:53,023 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-15 12:30:59,605 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 12:30:59,647 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 12:31:06,304 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:31:06,314 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:31:08,314 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:31:09,213 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:31:15,029 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 12:31:15,131 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-15 12:31:22,520 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 12:31:22,562 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 12:31:29,500 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 12:31:29,508 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 12:31:32,006 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 12:31:32,984 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 12:31:33,965 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 16:30:28,555 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 16:30:28,805 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 16:30:31,618 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 16:30:32,885 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 16:30:57,746 [main] INFO nopCommerce - *****Verifying Add a new customer Page*****
+2020-05-15 16:30:57,774 [main] INFO nopCommerce - *****Adding new customer details*****
+2020-05-15 16:31:27,213 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 16:31:27,223 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 16:31:30,130 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 16:31:31,502 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 16:31:56,752 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 16:31:56,763 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 16:31:58,864 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 16:31:59,920 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 16:32:17,790 [main] INFO nopCommerce - *****Searching Customer by Name*****
+2020-05-15 16:32:22,587 [main] INFO nopCommerce - *****Verifying Search Customer by Name *****
+2020-05-15 16:32:22,762 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 16:32:30,483 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 16:32:30,493 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 16:32:35,210 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 16:32:36,255 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 16:32:42,873 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 16:32:42,959 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-15 16:32:49,696 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 16:32:49,740 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 16:32:56,375 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 16:32:56,383 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 16:32:58,651 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 16:32:59,775 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 16:33:06,118 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 16:33:06,212 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-15 16:33:12,844 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 16:33:12,877 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 16:33:19,398 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 16:33:19,407 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 16:33:21,843 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 16:33:22,937 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 16:33:23,932 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 16:34:50,949 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 16:34:51,107 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 16:34:56,740 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 16:34:57,763 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 16:35:18,562 [main] INFO nopCommerce - *****Verifying Add a new customer Page*****
+2020-05-15 16:35:18,586 [main] INFO nopCommerce - *****Adding new customer details*****
+2020-05-15 16:36:08,752 [main] INFO nopCommerce - *****Saving customer data*****
+2020-05-15 16:36:15,330 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 16:36:21,855 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 16:36:21,864 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 16:36:23,990 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 16:36:25,029 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 16:36:41,257 [main] INFO nopCommerce - *****Searching Customer by email id*****
+2020-05-15 16:36:45,920 [main] INFO nopCommerce - *****Verifying Search Customer by Email *****
+2020-05-15 16:36:46,104 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 16:36:52,544 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 16:36:52,557 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 16:36:54,752 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 16:36:55,627 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 16:37:14,454 [main] INFO nopCommerce - *****Searching Customer by Name*****
+2020-05-15 16:37:18,981 [main] INFO nopCommerce - *****Verifying Search Customer by Name *****
+2020-05-15 16:37:19,143 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 16:37:25,684 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 16:37:25,699 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 16:37:27,786 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 16:37:28,703 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 16:37:35,339 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 16:37:35,406 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-15 16:37:43,103 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 16:37:43,125 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 16:37:49,988 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 16:37:49,997 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 16:37:52,463 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 16:37:53,445 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 16:37:59,231 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 16:37:59,304 [main] INFO nopCommerce - *****Clicking on Logout*****
+2020-05-15 16:38:05,982 [main] INFO nopCommerce - *****Verifying title*****
+2020-05-15 16:38:06,030 [main] INFO nopCommerce - *****Closing browser*****
+2020-05-15 16:38:12,550 [main] INFO nopCommerce - *****Launching browser*****
+2020-05-15 16:38:12,557 [main] INFO nopCommerce - *****Opening URL*****
+2020-05-15 16:38:14,362 [main] INFO nopCommerce - *****Providing Login details *****
+2020-05-15 16:38:15,314 [main] INFO nopCommerce - *****Started login*****
+2020-05-15 16:38:16,370 [main] INFO nopCommerce - *****Verifying title*****
